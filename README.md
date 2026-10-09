@@ -1,5 +1,6 @@
 # First-Full-Unity-Game-for-Comp-Sci-IA-
 Unity game to help my client learn the syntax of pseudocode
+Finished: January 2025
 
 # Ascension Anarchy
 A 2D pixel-art, RPG developed using **Unity and C#** for my International Baccalaureate Diploma Programme (IBDP) Computer Science Internal Assessment. The game introduces beginner programming concepts through strategic battles against AI opponents.
